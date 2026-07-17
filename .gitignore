@@ -1,0 +1,13 @@
+# OS
+Thumbs.db
+Desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# PowerShell
+*.log
+
+# Packaging
+*.zip
