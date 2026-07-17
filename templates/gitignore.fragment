@@ -1,0 +1,7 @@
+# Local Obsidian workspace state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache/
+
+# Generated temporary files from this setup
+.claude-project-brain-temp/
